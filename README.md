@@ -20,7 +20,7 @@ I like understanding how things work — most of my ML algorithms are implemente
 
 ### Tools
 
-Python · Java · C++ · SQL · Pandas · NumPy · Scikit-learn · Matplotlib · Git
+Python · Java · SQL · Pandas · NumPy · Scikit-learn · Matplotlib · Git · JSON 
 
 ---
 
