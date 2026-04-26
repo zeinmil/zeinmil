@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Zein 👋
 
-<!--
-**zeinmil/zeinmil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+L3 student at PSL University (Paris), interested in data science and machine learning.
 
-Here are some ideas to get you started:
+I like understanding how things work — most of my ML algorithms are implemented from scratch before I use sklearn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+
+🏠 **[paris-real-estate-predictor](https://github.com/zeinmil/NOM_DU_REPO)** — Chrome extension that predicts apartment prices in Paris. Trained a model on French government open data, deployed as a browser extension.
+
+📊 **[data-analysis-portfolio](https://github.com/zeinmil/data-analysis-portfolio)** — 9 ML projects from scratch: K-Means, PCA, NMF, MDS, Isomap, KNN, Ridge Regression, Cross-Validation. Applied to Fashion-MNIST and superconductivity data.
+
+💰 **[city-budget-optimizer](https://github.com/zeinmil/NOM_DU_REPO)** — Optimizing a city's budget allocation using the knapsack problem, hill climbing, and greedy solvers. Built in Java.
+
+🔄 **[polarisation](https://github.com/zeinmil/NOM_DU_REPO)** — *(à compléter)*
+
+---
+
+### Tools
+
+Python · Java · C++ · SQL · Pandas · NumPy · Scikit-learn · Matplotlib · Git
+
+---
+
+🔬 Research internship in Data Science / ML starting May 2025
+
