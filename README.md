@@ -1,4 +1,5 @@
-# Hi, I'm Zein :)) 
+# Hi, I'm Zein 👋 
+ 
 
 L3 student at Dauphine PSL University (Paris), studying mathematics and computer science.
 
