@@ -1,6 +1,6 @@
 # Hi, I'm Zein :)) 
 
-L3 student at Dauphine PSL University (Paris), interested in data science and machine learning.
+L3 student at Dauphine PSL University (Paris), studying mathematics and computer science.
 
 I like understanding how things work — most of my ML algorithms are implemented from scratch before I use sklearn.
 
