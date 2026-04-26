@@ -1,4 +1,4 @@
-# Hi, I'm Zein 👋
+# Hi, I'm Zein :)) 
 
 L3 student at PSL University (Paris), interested in data science and machine learning.
 
