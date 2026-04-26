@@ -14,7 +14,7 @@ I like understanding how things work — most of my ML algorithms are implemente
 
 💰 **[city-budget-optimizer](https://github.com/zeinmil/city-budget-optimizer)** — Optimizing a city's budget allocation using the knapsack problem, hill climbing, and greedy solvers. Built in Java.
 
-🔄 **[polarisation](https://github.com/zeinmil/NOM_DU_REPO)** — 
+🔄 🔄 **[Polarisation-Analysis](https://github.com/zeinmil/Polarisation-Analysis)** — Measuring electoral polarization using Hamming & Spearman distances, with formal proofs of axiom compliance and Monte Carlo simulations. Built in Python.
 
 ---
 
