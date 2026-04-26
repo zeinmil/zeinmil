@@ -12,7 +12,7 @@ I like understanding how things work — most of my ML algorithms are implemente
 
 📊 **[data-analysis-portfolio](https://github.com/zeinmil/data-analysis-portfolio)** — 9 ML projects from scratch: K-Means, PCA, NMF, MDS, Isomap, KNN, Ridge Regression, Cross-Validation. Applied to Fashion-MNIST and superconductivity data.
 
-💰 **[city-budget-optimizer](https://github.com/zeinmil/)** — Optimizing a city's budget allocation using the knapsack problem, hill climbing, and greedy solvers. Built in Java.
+💰 **[city-budget-optimizer](https://github.com/zeinmil/city-budget-optimizer)** — Optimizing a city's budget allocation using the knapsack problem, hill climbing, and greedy solvers. Built in Java.
 
 🔄 **[polarisation](https://github.com/zeinmil/NOM_DU_REPO)** — 
 
