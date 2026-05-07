@@ -3,7 +3,7 @@
 
 L3 student at Dauphine PSL University (Paris), studying mathematics and computer science.
 
-I like understanding how things work — most of my ML algorithms are implemented from scratch before I use sklearn.
+I like understanding how things work
 
 ---
 
